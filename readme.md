@@ -26,10 +26,3 @@ Wrap text --->
 
 
 
-
-## Papers
-### ICLR 2023
-- [Offline Reinforcement Learning with Differential Privacy](https://openreview.net/forum?id=NT51Ty0-Bfu)
-	- Keywords: offline reinforcement learning, differential privacy
-	- Key idea: 
-	- Implementation details:
