@@ -20,9 +20,12 @@ Off-Policy Learning
 Off-Policy Evaluation and Learning: Benchmarks/Experiments
 Off-Policy Evaluation and Learning: Applications
 Wrap text --->
+## Open Source Software/Implementations
 ## Blog
 ## Tutorials/Talks/Lectures
-
+- [Offline Reinforcement Learning: From Algorithms to Practical Challenges](https://sites.google.com/view/offlinerltutorial-neurips2020/home)
+	- Aviral Kumar and Sergey Levine. NeurIPS2020.
+- [Introduction on Offline RL - Zhihu](https://zhuanlan.zhihu.com/p/489470062)
 
 
 
