@@ -27,9 +27,8 @@ Wrap text --->
 ## Open Source Software/Implementations
 ## Blog
 ## Tutorials/Talks/Lectures
-- [Offline Reinforcement Learning: From Algorithms to Practical Challenges](https://sites.google.com/view/offlinerltutorial-neurips2020/home)
+- [Offline Reinforcement Learning: From Algorithms to Practical Challenges](https://sites.google.com/view/offlinerltutorial-neurips2020/home)[[NeurIPS 2020 Offline RL Tutorial Colab Exercise](https://colab.research.google.com/drive/1vO0BipQApzrDSPeChHK1rBsqeRh2rH1m?usp=sharing)]
 	- Aviral Kumar and Sergey Levine. NeurIPS2020.
-	- [NeurIPS 2020 Offline RL Tutorial Colab Exercise](https://colab.research.google.com/drive/1vO0BipQApzrDSPeChHK1rBsqeRh2rH1m?usp=sharing)
 - [Introduction on Offline RL - Zhihu](https://zhuanlan.zhihu.com/p/489470062)
 
 
