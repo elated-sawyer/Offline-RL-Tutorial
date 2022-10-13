@@ -1,7 +1,7 @@
 ## Description
 The purpose of this repository is to summarise some of Offline RL's research to help build a knowledge framework for beginners in this topic (partly referenced [hanjuku-kaso/awesome-offline-rl](https://github.com/hanjuku-kaso/awesome-offline-rl))
 
-## Reinforcement learning primer
+## Reinforcement Learning Primer
 - [Notes on Reinforcement Learning Theory](https://github.com/elated-sawyer/Offline-RL-Tutorial/blob/master/materials/Notes_on_Reinforcement_Learning_Theory.pdf) (ongoing)
 	- Siyu Zhou
 
