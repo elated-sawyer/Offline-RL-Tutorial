@@ -12,7 +12,11 @@ The purpose of this repository is to summarise some of Offline RL's research to 
 - [Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems](https://arxiv.org/abs/2005.01643)
 	- Sergey Levine, Aviral Kumar, George Tucker, and Justin Fu. arXiv, 2020.
 ### Offline RL: Theory/Methods
-- [Conservative Q-Learning for Offline Reinforcement Learning](https://papers.nips.cc/paper/2020/hash/0d2b2061826a5df3221116a5085a6052-Abstract.html) [[website](https://sites.google.com/view/cql-offline-rl)] [[code](https://github.com/aviralkumar2907/CQL)] [[blog](https://bair.berkeley.edu/blog/2020/12/07/offline/)]
+- [BCQ] [Off-Policy Deep Reinforcement Learning without Exploration](http://proceedings.mlr.press/v97/fujimoto19a.html)
+	- Scott Fujimoto, David Meger, and Doina Precup. ICML, 2019.
+- [BEAR] [Stabilizing Off-Policy Q-Learning via Bootstrapping Error Reduction](https://papers.nips.cc/paper/2019/hash/c2073ffa77b5357a498057413bb09d3a-Abstract.html) [[website](https://sites.google.com/view/bear-off-policyrl)] [[blog](https://bair.berkeley.edu/blog/2019/12/05/bear/)] [[code](https://github.com/aviralkumar2907/BEAR)]
+	- Aviral Kumar, Justin Fu, George Tucker, and Sergey Levine. NeurIPS, 2019.
+- [CQL] [Conservative Q-Learning for Offline Reinforcement Learning](https://papers.nips.cc/paper/2020/hash/0d2b2061826a5df3221116a5085a6052-Abstract.html) [[website](https://sites.google.com/view/cql-offline-rl)] [[code](https://github.com/aviralkumar2907/CQL)] [[blog](https://bair.berkeley.edu/blog/2020/12/07/offline/)]
 	- Aviral Kumar, Aurick Zhou, George Tucker, and Sergey Levine. NeurIPS, 2020.
 ### Offline RL: Benchmarks/Experiments
 - [D4RL: Datasets for Deep Data-Driven Reinforcement Learning](https://arxiv.org/abs/2004.07219) [[website](https://sites.google.com/view/d4rl/home)] [[blog](https://bair.berkeley.edu/blog/2020/06/25/D4RL/)] [[code](https://github.com/rail-berkeley/d4rl)]
