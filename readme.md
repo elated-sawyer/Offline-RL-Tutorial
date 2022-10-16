@@ -21,6 +21,8 @@ The purpose of this repository is to summarise some of Offline RL's research to 
 ### Offline RL: Benchmarks/Experiments
 - [D4RL: Datasets for Deep Data-Driven Reinforcement Learning](https://arxiv.org/abs/2004.07219) [[website](https://sites.google.com/view/d4rl/home)] [[blog](https://bair.berkeley.edu/blog/2020/06/25/D4RL/)] [[code](https://github.com/rail-berkeley/d4rl)]
 	- Justin Fu, Aviral Kumar, Ofir Nachum, George Tucker, and Sergey Levine. arXiv, 2020.
+- [d3rlpy: An Offline Deep Reinforcement Learning Library](https://arxiv.org/abs/2111.03788) [[software](https://github.com/takuseno/d3rlpy)]
+	- Takuma Seno and Michita Imai. arXiv, 2021.
 ### Offline RL: Applications
 <!--- 
 Off-Policy Evaluation and Learning: Theory/Methods
