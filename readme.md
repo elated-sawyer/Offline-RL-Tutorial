@@ -12,7 +12,7 @@ The purpose of this repository is to summarise some of Offline RL's research to 
 - [Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems](https://arxiv.org/abs/2005.01643)
 	- Sergey Levine, Aviral Kumar, George Tucker, and Justin Fu. arXiv, 2020.
 ### Offline RL: Theory/Methods
-- [BCQ] [Off-Policy Deep Reinforcement Learning without Exploration](http://proceedings.mlr.press/v97/fujimoto19a.html)
+- [BCQ] [Off-Policy Deep Reinforcement Learning without Exploration](https://arxiv.org/pdf/1812.02900.pdf) [[slides](https://icml.cc/media/icml-2019/Slides/4583.pdf)] [[code](https://github.com/sfujim/BCQ)]
 	- Scott Fujimoto, David Meger, and Doina Precup. ICML, 2019.
 - [BEAR] [Stabilizing Off-Policy Q-Learning via Bootstrapping Error Reduction](https://papers.nips.cc/paper/2019/hash/c2073ffa77b5357a498057413bb09d3a-Abstract.html) [[website](https://sites.google.com/view/bear-off-policyrl)] [[blog](https://bair.berkeley.edu/blog/2019/12/05/bear/)] [[code](https://github.com/aviralkumar2907/BEAR)]
 	- Aviral Kumar, Justin Fu, George Tucker, and Sergey Levine. NeurIPS, 2019.
