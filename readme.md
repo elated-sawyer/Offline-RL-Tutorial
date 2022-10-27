@@ -19,6 +19,8 @@ The purpose of this repository is to summarise some of Offline RL's research to 
 	- Aviral Kumar, Justin Fu, George Tucker, and Sergey Levine. NeurIPS, 2019.
 - [BRAC] [Behavior Regularized Offline Reinforcement Learning](https://arxiv.org/abs/1911.11361)
  	- Yifan Wu, George Tucker, and Ofir Nachum. arXiv, 2019.
+- [AWR] [Advantage-Weighted Regression: Simple and Scalable Off-Policy Reinforcement Learning](https://arxiv.org/abs/1910.00177)
+	- Xue Bin Peng, Aviral Kumar, Grace Zhang, and Sergey Levine. arXiv, 2019.
 #### Regularization
 - [CQL] [Conservative Q-Learning for Offline Reinforcement Learning](https://papers.nips.cc/paper/2020/hash/0d2b2061826a5df3221116a5085a6052-Abstract.html) [[website](https://sites.google.com/view/cql-offline-rl)] [[code](https://github.com/aviralkumar2907/CQL)] [[blog](https://bair.berkeley.edu/blog/2020/12/07/offline/)]
 	- Aviral Kumar, Aurick Zhou, George Tucker, and Sergey Levine. NeurIPS, 2020.
