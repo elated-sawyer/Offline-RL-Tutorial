@@ -32,6 +32,8 @@ The purpose of this repository is to summarise some of Offline RL's research to 
 - [d3rlpy: An Offline Deep Reinforcement Learning Library](https://arxiv.org/abs/2111.03788) [[software](https://github.com/takuseno/d3rlpy)]
 	- Takuma Seno and Michita Imai. arXiv, 2021.
 ### Offline RL: Applications
+- [Power Systems] [Optimal Tap Setting of Voltage Regulation Transformers Using Batch Reinforcement Learning](https://arxiv.org/abs/1807.10997)
+  - Hanchen Xu, Alejandro D. Domínguez-García, and Peter W. Sauer. IEEE T POWER SYSTEMS, 2020.
 <!--- 
 Off-Policy Evaluation and Learning: Theory/Methods
 Off-Policy Evaluation: Contextual Bandits
