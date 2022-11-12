@@ -26,6 +26,11 @@ The purpose of this repository is to summarise some of Offline RL's research to 
 	- Aviral Kumar, Aurick Zhou, George Tucker, and Sergey Levine. NeurIPS, 2020.
 - [COMBO] [COMBO: Conservative Offline Model-Based Policy Optimization](https://arxiv.org/abs/2102.08363)
 	- Tianhe Yu, Aviral Kumar, Rafael Rafailov, Aravind Rajeswaran, Sergey Levine, and Chelsea Finn. NeurIPS, 2021.
+#### Uncertainty Estimation
+- [MOPO] [MOPO: Model-based Offline Policy Optimization](https://papers.nips.cc/paper/2020/hash/a322852ce0df73e204b7e67cbbef0d0a-Abstract.html) [[code](https://github.com/tianheyu927/mopo)]
+	- Tianhe Yu, Garrett Thomas, Lantao Yu, Stefano Ermon, James Y. Zou, Sergey Levine, Chelsea Finn, and Tengyu Ma. NeurIPS, 2020.
+- [MOReL] [MOReL: Model-Based Offline Reinforcement Learning](https://papers.nips.cc/paper/2020/hash/f7efa4f864ae9b88d43527f4b14f750f-Abstract.html) [[podcast](https://twimlai.com/morel-model-based-offline-reinforcement-learning-with-aravind-rajeswaran/)]
+  - Rahul Kidambi, Aravind Rajeswaran, Praneeth Netrapalli, and Thorsten Joachims. NeurIPS, 2020.
 ### Offline RL: Benchmarks/Experiments
 - [D4RL: Datasets for Deep Data-Driven Reinforcement Learning](https://arxiv.org/abs/2004.07219) [[website](https://sites.google.com/view/d4rl/home)] [[blog](https://bair.berkeley.edu/blog/2020/06/25/D4RL/)] [[code](https://github.com/rail-berkeley/d4rl)]
 	- Justin Fu, Aviral Kumar, Ofir Nachum, George Tucker, and Sergey Levine. arXiv, 2020.
